@@ -1,0 +1,32 @@
+.secondpagebag{
+    background-color:rgba(0, 0, 0, 0.532);
+    color: white;
+    padding: 50px;
+
+}
+.secondh{
+    text-align: center;
+}
+.subinput{
+    margin-top: 5px;
+    width: 400px;
+    height: 30px;
+}
+.sublable{
+    padding-top: 10px;
+}
+.subdiv{
+    margin-left: 1000px;
+    padding: 10px;
+    background-color: #ff6600;
+    color: white;
+    margin-top: -40px;
+
+
+}
+.sublab{
+    padding-left: 30px;
+}
+.word{
+    color:#ff6600 ;
+}

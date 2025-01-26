@@ -1,0 +1,34 @@
+.cardpageh{
+    color: #ff6600;
+
+}
+.cardicondesign{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    
+}
+.cardheight{
+    padding-top: 100px;
+    font-size: medium;
+}
+.cardhthree{
+    color: #ff6600;
+}
+.cardfullpage{
+    padding: 10px;
+}
+.cardflexalign{
+    display: flex;
+    padding-top:20px ;
+}
+.discountof{
+    margin-top: 50px;
+    display: flex;
+    background-color: red;
+    color: white;
+    padding-left: 500px;
+}
+.oftag{
+    padding-left: 400px;
+}
